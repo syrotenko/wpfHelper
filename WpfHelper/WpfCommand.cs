@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Windows.Input;
 
-namespace GenerateBranchName
+namespace WpfHelper
 {
     public class WpfCommand : ICommand
     {
